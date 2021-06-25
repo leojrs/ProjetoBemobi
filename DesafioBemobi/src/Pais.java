@@ -17,13 +17,11 @@ public class Pais {
 	}
 	
 	public void addUsuarios() {
-		this.totalUsuarios++;
-	
+		this.totalUsuarios++;	
 	}
 	
 	public void addAtivos() {
-		this.totalAtivos++;
-	
+		this.totalAtivos++;	
 	}
 
 	public void imprimir(PrintWriter gravarResultado) {
